@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.images.busyspinners.estuary" name="Animated Busy Spinners Pack Estuary" version="1.0.1.001" provider-name="marcelveldt, YLLOW_DRAGON">
+<addon id="resource.images.busyspinners.estuary" name="Animated Busy Spinners Pack Estuary" version="1.0.1.002" provider-name="marcelveldt, YLLOW_DRAGON">
 	<extension point="kodi.resource.images" compile="false" type="busyspinners" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Animated Busy Spinners Pack - Estuary</summary>
-		<description lang="en">Animated Busy Spinners Pack - Estuary</description>
+		<summary lang="en_GB">Animated Busy Spinners Pack - Estuary</summary>
+		<summary lang="ru_RU">Анимированный пакет индикатора занятости - Estuary</summary>
+		<summary lang="uk_UA">Анімований пакет індикатора зайнятості - Estuary</summary>
+		<description lang="en_GB">Animated Busy Spinners Pack - Estuary</description>
+		<description lang="ru_RU">Анимированный пакет индикатора занятости - Estuary</description>
+		<description lang="uk_UA">Анімований пакет індикатора зайнятості - Estuary</description>
 		<platform>all</platform>
-        <email>nkvoronov@gmail.com</email>
+		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/resource.images.busyspinners.estuary</source>
 	</extension>
 </addon>
